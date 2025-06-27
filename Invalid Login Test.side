@@ -1,0 +1,21 @@
+{
+  "id": "791aa51c-1f90-49d8-b523-7150b5a39150",
+  "version": "2.0",
+  "name": "Invalid Login Test",
+  "url": "",
+  "tests": [{
+    "id": "4a9fb1ef-bda7-4a6c-98bd-98cd129db831",
+    "name": "Invalid Login Test",
+    "commands": []
+  }],
+  "suites": [{
+    "id": "ab7a59db-e6bd-487e-a3fe-7f786f16cdba",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["4a9fb1ef-bda7-4a6c-98bd-98cd129db831"]
+  }],
+  "urls": [],
+  "plugins": []
+}
